@@ -8,6 +8,7 @@ This folder contains 3 files, which will be used in Genome assembly modules
 3. GCF_000005845.2_ASM584v2_protein.faa [Protein fasta sequences]
 
 ==> Download these files to a folder "UNIX_TUTORIAL"
+
 ==> In terminal traverse to the location of "UNIX_TUTORIAL"
 
 # Go to Wiki page for exercises !
