@@ -6,3 +6,5 @@ This folder contains 3 files, which will be used in Genome assembly modules
 
 ==> Download these files to a folder "UNIX_TUTORIAL"
 ==> In terminal traverse to the location of "UNIX_TUTORIAL"
+
+Go to Wiki page for exercises !
