@@ -1,5 +1,5 @@
 # UNIX_BASICS
-Unix basics for the BCGaT 2019 course
+Unix basics for the BCGaT 2019 course, I organized at KAUST, KSA
 
 Folder 00_DATA contains 3 files, which will be used in Genome assembly modules
 
